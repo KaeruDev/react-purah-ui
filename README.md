@@ -27,6 +27,5 @@ import { StyleWrapper } from "react-sheikah-ui";
 ```
 
 ## Components 
-this is originaly the components of masbagal, my version of the UI is only a atemp to update him UI. i hope this proyect advance.
-More detail of the the components can be found in [the documentation](https://react-sheikah-ui.vercel.app)
+These react components were originally made by Masbagal. I have only contributed to this project by updating React JS 18. For further details on the components, please refer to the following resource.[the documentation](https://react-sheikah-ui.vercel.app)
 ---
