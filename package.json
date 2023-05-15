@@ -1,6 +1,6 @@
 {
   "name": "react-purah-ui",
-  "version": "0.0.1",
+  "version": "0.1.8",
   "description": "An UI library for React inspired by The Legend of Zelda: Breath of the Wild UI design. UI LIBRARY ORIGINALLY MADE BY masbagal and modified by me KaeruDev for use in react 18 projects.",
   "scripts": {
     "rollup": "rollup -c"
