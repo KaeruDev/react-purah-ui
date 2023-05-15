@@ -7,6 +7,15 @@
   },
   "author": "KaeruDev",
   "license": "ISC",
+
+  "repository": {
+    "type": "git",
+    "url": "git@https://github.com/KaeruDev/react-purah-ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KaeruDev/react-purah-ui/issues"
+  },
+
   "devDependencies": {
     "@rollup/plugin-commonjs": "^25.0.0",
     "@rollup/plugin-node-resolve": "^15.0.2",
